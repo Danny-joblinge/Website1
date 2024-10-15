@@ -1,0 +1,99 @@
+*, html         {
+                        margin: 2px;;
+                        padding: 2px;
+                }
+
+body            {       background-color: rgb(57, 56, 56);
+                }
+
+#header        {        background-color: gray;
+                        padding: 20px;
+
+                }
+
+
+h1              {       text-align: left;
+                        color: #ffffff; 
+                }
+                
+
+h2              {       color: #ffffff;
+                        text-align: center;
+                }
+h3              {       color: #ffffff;
+                }
+
+
+nav a           {       text-decoration: none;
+                        color: #ffffff  
+                }
+
+nav li          {       list-style-type: none;
+                        display: inline;
+                        padding-right: 20px;
+                        color: #ffffff; 
+                }
+
+.text           {       float: right;
+                        color: white;
+                        padding-top: 20px;
+                        max-width: 500px;
+                }
+
+#interessen     {       color: white;
+                }
+
+#erfahrung      {       color: #ffffff;
+                }
+
+#übermich       {       color: #ffffff;
+                }
+
+#kontakt        {       text-align: center;}
+
+#e-mail         {       color: #ff0000;
+                }
+#tele           {       color: #ff0000;}
+
+
+#insta          {       color: #ff0000;
+                }
+
+#danny          {       text-align: left;
+                        margin-right: 600px;}
+
+.bild           {       border: 1px solid rgb(0, 0, 0);
+                        padding: 1px;
+                        text-align: center;
+                }
+
+
+
+/* Container für die Spalten */
+.container {
+        display: flex;
+        justify-content: space-between; /* Abstand zwischen den Spalten */
+        padding: 20px;
+        }
+
+        .column {
+        flex: 1; /* Jede Spalte bekommt den gleichen Platz */
+        margin: 10px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        }
+
+#bweb           {       float: right;
+                        margin-left: 20px; /* Optional: Abstand zum Text */
+                        margin-top: -45px;
+    }
+
+#kontakt       {        background-color: gray;
+                        padding: 20px;
+                        text-align: center;
+                        margin: -3px;
+                        padding: -3px;
+                }
+
+#links          {       
+                }
